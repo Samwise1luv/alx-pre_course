@@ -1,8 +1,6 @@
 #!/bin/bash
-echo "The school is open"
-<<<<<<<<< HEAD
+echo "The school is open!"
 echo " Alx school is so cool"
-=======
 coding is fun
 starting to cdoe with c
->>>>>>> update_script
+
